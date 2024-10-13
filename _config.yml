@@ -22,7 +22,7 @@ title: TechTales - Code, Data, Innovation
 email: nduatiteresia82@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Showcasing my journey in software development, data science, and my passion for technology. Explore my projects, insights, and the impact I aim to make in the tech industry.
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/CIS641-HW2-Nduati" # the subpath of your site, e.g. /blog
 url: "https://teresiawairimu.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
